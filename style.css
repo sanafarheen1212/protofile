@@ -46,6 +46,10 @@ body{
     letter-spacing: 1px;
 
 }
+.skillsection{
+    grid-template-columns: 1fr;
+    grid-gap:20px;
+}
 
 
 
