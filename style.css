@@ -120,6 +120,7 @@ body{
     content:attr(value);
     top:-35px;
     right:0px;
+   transform:translatex(-50%);
     
     font-size: 17px;
     color: white;
